@@ -1,0 +1,6 @@
+body {
+    background-color: green;
+    display: flex;
+    align-items: space-between;
+    justify-content: space-between;
+}
