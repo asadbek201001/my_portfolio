@@ -1,6 +1,7 @@
 body {
-    background-color: green;
-    display: flex;
+
+    background-color:  aqua;
     align-items: space-between;
     justify-content: space-between;
+    
 }
